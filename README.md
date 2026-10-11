@@ -1,10 +1,9 @@
 # My First C++ Project 💻
 
-A repository to store my early C++ programs and track my learning progress. 
+A simple repository to store my early C++ programs and track my learning progress. 
 
-## Programs Included
-* **main.cpp**: A standard Hello World starter program to test the environment setup.
-* **calculator.cpp**: A simple console application that takes length and width inputs to calculate the area of a rectangle. Includes basic input validation.
+## Files
+* **main.cpp**: A standard Hello World starter program to verify the Dev-C++ environment setup and learn how to use GitHub.
 
 ## Environment
 * **IDE**: Dev-C++
