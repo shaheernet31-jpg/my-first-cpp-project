@@ -1,11 +1,11 @@
-# 🚀 My First C++ Project
+# My First C++ Project 💻
 
-Welcome to my GitHub profile! This is my very first repository.
+A repository to store my early C++ programs and track my learning progress. 
 
-## 🛠️ Environment & Tools
-* **IDE:** Dev-C++
-* **Language:** C++
-* **OS:** Windows
+## Programs Included
+* **main.cpp**: A standard Hello World starter program to test the environment setup.
+* **calculator.cpp**: A simple console application that takes length and width inputs to calculate the area of a rectangle. Includes basic input validation.
 
-## 📝 Project Details
-This repository contains a simple console application that demonstrates basic output syntax in C++. It marks the official start of my programming portfolio.
+## Environment
+* **IDE**: Dev-C++
+* **Language**: C++
